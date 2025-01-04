@@ -111,7 +111,7 @@ Distributed under the MIT License.
 
 Please, feel free to open issues, PRs or simply provide feedback!
 
-## Contact
+## Contacts
 
 Prefer [Discord](https://discord.gg/sismo) or [Twitter](https://twitter.com/sismo_eth)
 
